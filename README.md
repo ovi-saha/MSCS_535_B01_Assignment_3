@@ -47,7 +47,7 @@ These practices help prevent attackers from injecting malicious SQL code into th
 
 ## How to Compile and Run
 - Create a database
-- Change the database user and password according to your system 
+- Change the database user and password according to your system. 
 Then,
 
 Compile:
